@@ -16,6 +16,7 @@ ABACA
  - (0, 2),
  - (2, 3),
  - (3, 4)]
+ 
 Would have maximum value 3 using the path of vertices [0, 2, 3, 4], (A, A, C, A).
 
 The following input graph:
